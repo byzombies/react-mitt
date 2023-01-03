@@ -1,5 +1,5 @@
 {
-  "name": "@byzombies-react-mitt",
+  "name": "react-mitt",
   "version": "1.0.1",
   "description": "React event emitter / pubsub 👉🏻👈🏽",
   "source": "src/index.tsx",
