@@ -1,6 +1,6 @@
 {
     "name": "react-mitt-forked",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "React event emitter / pubsub 👉🏻👈🏽",
     "source": "src/index.tsx",
     "main": "dist/react-mitt.js",
